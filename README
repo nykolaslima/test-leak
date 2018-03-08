@@ -1,0 +1,4 @@
+Test a AWS credentials leak.
+
+aws_access_key_id=AKIBANANANANANANANAUEUEUE
+aws_secret_access_key=SECRETJAi12jaijs81JBANANA
